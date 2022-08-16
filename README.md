@@ -1,6 +1,6 @@
 # Hi, I'm Audrey 👋
 
-- 👩‍💻 I’m currently learning Front-End development
+- 👩‍💻 I’m currently learning Full Stack development
 - 🌱 I’m aiming to use more of my Data Analysis skills and generally improve my programming automatisms
 - 👯 I’m looking to contribute to open-source projects with a positive impact on society
 - 🏠 I’m a building services engineer, interested in digitalisation of buildings and cities
