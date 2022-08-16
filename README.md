@@ -3,7 +3,7 @@
 - 👩‍💻 I’m currently learning Full Stack development
 - 🌱 I’m aiming to use more of my Data Analysis skills and generally improve my programming automatisms
 - 👯 I’m looking to contribute to open-source projects with a positive impact on society
-- 🏠 I’m a building services engineer, interested in digitalisation of buildings and cities
+- 🏠 I’m a building services engineer and BIM coordinator, interested in digitalisation of buildings and cities
 - ⚡ I am endlessly curious about behavioural science, neuroscience and why we do the things we do!
 
 ## 💻 Languages and tools
