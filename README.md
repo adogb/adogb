@@ -1,6 +1,6 @@
 # Hi, I'm Audrey 👋
 
-- 👩‍💻 I’m currently working on data projects
+- 👩‍💻 I’m currently working on data projects and learning web development
 - 🌱 I’m aiming to use more of my Data Analysis skills and generally improve my programming automatisms
 - 👯 I’m looking to contribute to open-source projects with a positive impact on society
 - 🏠 I’m a building services engineer and BIM coordinator, interested in digitalisation of buildings and cities
