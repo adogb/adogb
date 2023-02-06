@@ -1,9 +1,8 @@
 # Hi, I'm Audrey 👋
 
 - 👩‍💻 I’m currently working on data and full-stack projects using Python (February 2023: budget web app)
-- 🌱 I’m aiming to use more of my Data Analysis skills and generally improve my programming automatisms
-- 👯 I’m looking to contribute to open-source projects with a positive impact on society
-- 🏠 I’m a building services engineer and BIM coordinator, interested in digitalisation of buildings and cities
+- 👯 I’m looking to contribute to open-source projects with a positive impact on society (education, financial literacy, justice, accessibility)
+- 🏠 I’m a building services engineer and BIM coordinator, interested in digitalisation and automation in building projects
 - ⚡ I am endlessly curious about behavioural science, neuroscience and why we do the things we do!
 
 ## 💻 Languages and tools
