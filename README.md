@@ -1,8 +1,9 @@
 # Hi, I'm Audrey 👋
 
-- 👩‍💻 I’m currently working on data and full-stack projects using Python (February 2023: budget web app)
-- 👯 I’m looking to contribute to open-source projects with a positive impact on society (education, financial literacy, justice, accessibility)
-- 🏠 I’m a building services engineer and BIM coordinator, interested in digitalisation and automation in building projects
+- 📢 I am looking for work in data and product development
+- 👩‍💻 I’m currently working on data and full-stack projects using Python (currently: budget web app) to practice my skills
+- 🤝 I’m looking to contribute to open-source projects with a positive impact on society (education, financial literacy, justice, accessibility)
+- 🏠 I have a background as building services engineer and BIM coordinator, where I focused on digitalisation and automation in building projects
 - ⚡ I am endlessly curious about behavioural science, neuroscience and why we do the things we do!
 
 ## 💻 Languages and tools
@@ -11,6 +12,8 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Tableau](https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
 
 ### Web dev
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
