@@ -1,10 +1,7 @@
 # Hi, I'm Audrey 👋
 
-- 📢 I am looking for work in data and product development
-- 👩‍💻 I’m currently working on data and full-stack projects using Python (currently: budget web app) to practice my skills
-- 🤝 I’m looking to contribute to open-source projects with a positive impact on society (education, financial literacy, justice, accessibility)
-- 🏠 I have a background as building services engineer and BIM coordinator, where I focused on digitalisation and automation in building projects
-- ⚡ I am endlessly curious about behavioural science, neuroscience and why we do the things we do!
+- 👩‍💻 I am a Data Engineer @ The LEGO Group
+- 🤝 I’m looking to contribute to open-source projects with a positive impact on society (education, financial literacy, justice, accessibility...)
 
 ## 💻 Languages and tools
 ### Data
